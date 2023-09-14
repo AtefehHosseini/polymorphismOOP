@@ -3,7 +3,7 @@ Polymorphism Principle in OOP Practice- Dublin Transportation
 # Polymorphism Principle of OOP Practice
 
 Welcome to my GitHub repository! Here, I explore and practice the Polymorphism principle in Object-Oriented Programming (OOP) using JavaScript. This project serves as a hands-on demonstration of how polymorphism allows different classes to share a common interface while providing their own unique implementations.
-
+.
 ## About This Project
 
 In this project, I've created a simple example using JavaScript classes to illustrate the concept of polymorphism. We have a base class called `Transportation`, and two subclasses, `LoasTransportation` and `BusTransportation`, that inherit from it.
